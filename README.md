@@ -1,4 +1,4 @@
-# Train Me AI Backend Template
+# Generic AI Backend Template
 
 This directory is a temporary, standalone export of the backend foundation.
 It can be copied into a separate repository and removed from the main project
